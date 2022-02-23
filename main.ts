@@ -12,7 +12,7 @@
 /**
  * MLX90614 block
  */
-//% weight=100 color=#ff7d30 icon="\uf2c7" block="MLX90614"
+//% weight=100 color=#ff7d30 icon="\uf2c7" block="MLX90614晶片"
 namespace MLX90614 {
     let MLX90614_I2C_ADDR = 0x5A
 
