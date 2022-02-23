@@ -24,7 +24,7 @@ namespace MLX90614 {
     /**
      * temperature
      */
-    //% blockId="MLX90614_TEMPERATURE" block="%temperature_origin 溫度(°C)"
+    //% blockId="MLX90614_TEMPERATURE" block="%temperature_origin 溫度(°C)" 
     //% weight=80 blockGap=8
     export function temperature(temperature_origin: MLX90614_TEMPERATURE_ORIGIN): number {
         let t = read_reg_uint16(temperature_origin);
