@@ -8,12 +8,11 @@
         "microphone": "*"
     },
     "files": [
-        "README.md",
-        "main.blocks",
+        "README.md",       
         "main.ts"
     ],
     "testFiles": [
-        "test.ts"
+        
     ],
     "public": true,
     "supportedTargets": [
