@@ -3,10 +3,10 @@
  */
 
  enum MLX90614_TEMPERATURE_ORIGIN {
-    //% block="object"
-    OBJECT = 0x07,
-    //% block="ambient"
-    AMBIENT = 0x06,
+    //% block="個體溫度"
+    個體溫度 = 0x07,
+    //% block="環境溫度"
+    環境溫度 = 0x06,
 }
 
 /**

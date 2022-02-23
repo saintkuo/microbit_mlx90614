@@ -1,6 +1,6 @@
 {
     "name": "microbit_mlx90614",
-    "version": "0.0.0",
+    "version": "1.0.1",
     "description": "mlx90614 sensor",
     "dependencies": {
         "core": "*",
